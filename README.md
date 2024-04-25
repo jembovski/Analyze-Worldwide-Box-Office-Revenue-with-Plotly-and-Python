@@ -1,7 +1,6 @@
 <h2 align=center>Analyze Worldwide Box Office Revenue with Plotly and Python</h2>
 <img src="revenue.png">
 
-This project is second in a series focused on data visualization with Plotly and Seaborn. You can find the first [Project: Analyze Box Office Data with Seaborn and Python](https://www.coursera.org/learn/analyze-data-seaborn-python/) on Coursera.
 
 ### (Part 1) Libraries
 
